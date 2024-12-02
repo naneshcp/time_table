@@ -23,7 +23,8 @@ Add your timetable using <td> tag.
 Execute the program using runserver command.
 
 # PROGRAM
-'''<html>
+'''
+<html>
     <head>
         <title>
             Nanesh's time table
@@ -196,7 +197,8 @@ Execute the program using runserver command.
         </table>
     
     </body>
-</html>```
+</html>
+```
 # OUTPUT
 
 ![output03(web)](https://github.com/user-attachments/assets/c3e55842-34eb-4639-891e-6c033d9ad6ee)
