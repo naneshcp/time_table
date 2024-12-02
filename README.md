@@ -21,9 +21,8 @@ Add your timetable using `<td>` tag.
 
 ## STEP 6
 Execute the program using runserver command.
-
-# PROGRAM
 '''
+# PROGRAM
 <html>
     <head>
         <title>
